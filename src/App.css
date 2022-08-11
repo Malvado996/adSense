@@ -1,0 +1,165 @@
+@import-normalize;
+
+@font-face {
+  font-family: leMans;
+  src: url(./assets/fonts/leMansRegular.otf);
+  /* format('opentype'); */
+}
+
+
+h1, h2, h4 {
+  margin: 0;
+  padding: 0;
+  color: #B8E4F1;
+  font-weight: 100;
+  font-family: leMans;
+  /* font-family: 'Ubuntu', sans-serif; */
+}
+
+h2 {
+  font-size: 1.563rem;
+  text-transform: uppercase;
+}
+
+.App {
+
+  margin: 0;
+  font-size: 16px;
+  /* font-family: "Ubuntu", sans-serif; */
+  color: #dbdbdb;
+  height: 100vh;
+  width: 100vw;
+
+  background-image: radial-gradient(
+    circle,
+    #000209,
+    #00030d,
+    #000411,
+    #010413,
+    #010516,
+    #04081b,
+    #060b1f,
+    #080e24,
+    #0a132c,
+    #0c1735,
+    #0e1a3e,
+    #121d47
+  );
+}
+
+/* .App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+.header {
+  height: 7.451rem;
+  
+
+  display: flex;
+  align-items: flex-end;
+}
+
+.homeIcon {
+  height: 7.451rem;
+  width: 7.451rem;
+  background-color: #FF1A03;
+}
+
+.headerImg {
+  height: 7.451rem;
+}
+
+.title {
+  font-size: 4.768rem;
+  margin-left: .5rem;
+  padding: 0;
+  
+  color: #B8E4F1;
+}
+
+.navigation {
+  margin-left: auto;
+  margin-right: 1rem;
+  height: 100%;
+
+  display: flex;
+  align-items: center;
+
+  text-transform: uppercase;
+}
+
+.content {
+  /* background-color: greenyellow; */
+
+  
+  margin-top: 5.96rem;
+
+  display: flex;
+  justify-content: space-around;
+}
+
+.feed-container {
+  height: 44.409rem;
+  width: 22.737rem;
+  background-color: #000209;
+}
+
+.contentCard {
+  width: 18.19rem;
+  height: 7.451rem;
+
+  margin: .5rem 0 .5rem 0;
+  
+  background-color: #FF4E00;
+}
+
+.feature-container {
+  height: 35.527rem;
+  width: 69.389rem;
+  background-color: #000209;
+
+  margin: 3.815rem 0 0 0;
+
+  background-image: url('./assets/images/v4.jpg');
+  background-size: cover;
+}
+
+
+
+.utility-container {
+  height: 44.409rem;
+  width: 14.552rem;
+  background-color: #000209;
+}
+
