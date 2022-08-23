@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.a19ec5e7.css",
-    "main.js": "/static/js/main.1c1ba387.js",
-    "static/js/787.f137e09e.chunk.js": "/static/js/787.f137e09e.chunk.js",
-    "static/media/v4.jpg": "/static/media/v4.40f35002bc5caa3972ce.jpg",
-    "static/media/leMansRegular.otf": "/static/media/leMansRegular.063c8cd4444225a79bf0.otf",
-    "static/media/logo.svg": "/static/media/logo.1acbc90eeccf8a8268c3cacdcb2a46be.svg",
-    "index.html": "/index.html",
-    "main.a19ec5e7.css.map": "/static/css/main.a19ec5e7.css.map",
-    "main.1c1ba387.js.map": "/static/js/main.1c1ba387.js.map",
-    "787.f137e09e.chunk.js.map": "/static/js/787.f137e09e.chunk.js.map"
+    "main.css": "/adSense/static/css/main.eac1d4b3.css",
+    "main.js": "/adSense/static/js/main.ed7b13a2.js",
+    "static/js/787.f137e09e.chunk.js": "/adSense/static/js/787.f137e09e.chunk.js",
+    "static/media/v4.jpg": "/adSense/static/media/v4.40f35002bc5caa3972ce.jpg",
+    "static/media/leMansRegular.otf": "/adSense/static/media/leMansRegular.063c8cd4444225a79bf0.otf",
+    "static/media/logo.svg": "/adSense/static/media/logo.1acbc90eeccf8a8268c3cacdcb2a46be.svg",
+    "index.html": "/adSense/index.html",
+    "main.eac1d4b3.css.map": "/adSense/static/css/main.eac1d4b3.css.map",
+    "main.ed7b13a2.js.map": "/adSense/static/js/main.ed7b13a2.js.map",
+    "787.f137e09e.chunk.js.map": "/adSense/static/js/787.f137e09e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a19ec5e7.css",
-    "static/js/main.1c1ba387.js"
+    "static/css/main.eac1d4b3.css",
+    "static/js/main.ed7b13a2.js"
   ]
 }
